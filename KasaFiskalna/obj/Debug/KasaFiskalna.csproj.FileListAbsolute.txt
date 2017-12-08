@@ -4,3 +4,9 @@ D:\TG\Prog Obj\KasaFiskalna\KasaFiskalna\bin\Debug\KasaFiskalna.pdb
 D:\TG\Prog Obj\KasaFiskalna\KasaFiskalna\obj\Debug\KasaFiskalna.csprojResolveAssemblyReference.cache
 D:\TG\Prog Obj\KasaFiskalna\KasaFiskalna\obj\Debug\KasaFiskalna.exe
 D:\TG\Prog Obj\KasaFiskalna\KasaFiskalna\obj\Debug\KasaFiskalna.pdb
+C:\Users\Piotrek\Source\Repos\KasaFiskalna\KasaFiskalna\bin\Debug\KasaFiskalna.exe.config
+C:\Users\Piotrek\Source\Repos\KasaFiskalna\KasaFiskalna\obj\Debug\KasaFiskalna.exe
+C:\Users\Piotrek\Source\Repos\KasaFiskalna\KasaFiskalna\obj\Debug\KasaFiskalna.pdb
+C:\Users\Piotrek\Source\Repos\KasaFiskalna\KasaFiskalna\obj\Debug\KasaFiskalna.csprojResolveAssemblyReference.cache
+C:\Users\Piotrek\Source\Repos\KasaFiskalna\KasaFiskalna\bin\Debug\KasaFiskalna.exe
+C:\Users\Piotrek\Source\Repos\KasaFiskalna\KasaFiskalna\bin\Debug\KasaFiskalna.pdb

@@ -42,10 +42,11 @@ namespace KasaFiskalna
 
             else if  (klawisz == 'Z' || klawisz == 'z')
             {
-                int liczba = zakupy.Count;
-                for (int i = 0; i < liczba; ++i)
+                //int liczba = zakupy.Count; nie ma dostępu do tego pola
+                //for (int i = 0; i < liczba; ++i)
+                //{
 
-                }
+                //}
             }
 
             else if(klawisz == 'S' || klawisz == 's')
